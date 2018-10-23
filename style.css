@@ -18,3 +18,11 @@ button {
     padding: 1em 4em;
     display:block;
 }
+.small {
+    font-weight: bolder;
+    font-size: 1ex;
+}
+
+.readonly {
+    background-color: lightgray;
+}
